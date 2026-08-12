@@ -1,0 +1,35 @@
+# Avalon Tech | Conecta+
+
+> Conecta+ é a frente de tecnologia do grupo Avalon, especializada em automação, Wi-Fi profissional, CFTV, sonorização e controle de acesso para empreendimentos imobiliários de alto padrão em Balneário Camboriú, Santa Catarina, Brasil. Atua junto a construtoras, incorporadoras e investidores, integrando tecnologia ao projeto arquitetônico desde a concepção até a entrega.
+
+## Empresa
+- Nome: Avalon Tech | Conecta+
+- Grupo: Avalon (avalontk.com.br)
+- Setor: Tecnologia para empreendimentos imobiliários (proptech / automação predial)
+- Localização: Rua 700, 615, Centro, Balneário Camboriú, SC, 88330-620, Brasil
+- Telefone / WhatsApp: +55 47 3514-6722
+- E-mail: contato@avalontech.com.br
+- Horário de atendimento: Segunda a sexta, 08:00 às 12:00 e 13:00 às 17:30
+
+## Serviços
+- Wi-Fi Profissional: redes de alta performance para áreas comuns de empreendimentos
+- Automação de Áreas Comuns: controle de iluminação, climatização e agendamento de espaços
+- Sonorização de Ambientes: projetos de áudio para academias, lounges, salões e piscinas
+- Controle de Acesso Inteligente: biometria, tags RFID, QR Code e aplicativo mobile
+- CFTV: videomonitoramento HD com acesso remoto
+
+## Diferenciais
+- Integração total ao projeto arquitetônico desde a fase de concepção
+- Solução turnkey completa, da especificação técnica à entrega
+- Tecnologia de ponta e equipamentos de última geração
+- Experiência comprovada em empreendimentos de médio e alto padrão
+
+## Páginas
+- Site principal: https://tech.avalontk.com.br/
+- Política de Privacidade: https://tech.avalontk.com.br/privacidade.html
+
+## Empresas do grupo Avalon
+- Avalon Turnkey (arquitetura, interiores e automação residencial): https://avalontk.com.br/
+- Avalon Interiores (design de interiores): em desenvolvimento
+- Avalon Modular (arquitetura em containers): em desenvolvimento
+- Avalon One (portaria via aplicativo): em desenvolvimento

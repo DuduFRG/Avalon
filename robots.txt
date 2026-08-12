@@ -1,3 +1,14 @@
 User-agent: *
 Allow: /
-Sitemap: https://dudufrg.github.io/Avalon/sitemap.xml
+
+# Agentes de IA (AEO/GEO) — leitura liberada para citação e resumo
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://tech.avalontk.com.br/sitemap.xml
